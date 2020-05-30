@@ -1,7 +1,7 @@
 package database.connection;
 
 import java.sql.*;
-// This is new code
+//
 public class ConnectionSQLServer {
     public static Connection getConnection() {
         Connection conn = null;
